@@ -43,6 +43,7 @@ Em breve
 
 - [ ] **Projeto 01:** Imprima 3 linhas em Python [▶️ Assistir](https://www.youtube.com/shorts/VPKr_7GFA84)
 - [ ] **Projeto 02:** Uso de variáveis em Python [▶️ Assistir](https://www.youtube.com/watch?v=FqkveNMIfoc)
+- [ ] **03.** Usei o INPUT e o PRINT em Python [▶️ Assistir](https://youtube.com/shorts/GewQl6-cTS0)
 
 ---
 
